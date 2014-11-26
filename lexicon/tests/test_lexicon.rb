@@ -1,4 +1,4 @@
-require "./lib/lexicon.rb"
+require "./lib/lexicon/lexicon.rb"
 require "minitest/autorun"
 
 class TestNAME < MiniTest::Unit::TestCase
